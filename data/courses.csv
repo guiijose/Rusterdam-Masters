@@ -1,0 +1,60 @@
+name,group,period,ects,score
+Advanced Operating Systems,Systems,1,6,5
+Programming Large-Scale Parallel Systems,Systems,1,6,5
+Digital Twin Engineering,BigData,1,6,5
+Logical Verification,Foundations,1,6,5
+Software Security,Security,1,6,5
+Verification for Security,Security,1,6,5
+Digitalization and Sustainability,SoftwareEng,1,6,5
+Green Lab,SoftwareEng,1,6,5
+Service Oriented Design,SoftwareEng,1,6,5
+Algorithmic Game Theory,Elective,1,6,5
+Evolutionary Computing,Elective,1,6,5
+Introduction to Computational Science,Elective,1,6,5
+Knowledge Organization,Elective,1,6,5
+Distributed Systems,Systems,2,6,5
+Advanced Algorithms,Foundations,2,6,5
+Foundations of Cryptography,Foundations,2,6,5
+Information Theoretic Learning,Foundations,2,6,5
+Network Security,Security,2,6,5
+Digital Architecture,SoftwareEng,2,6,5
+Fundamentals of Adaptive Software,SoftwareEng,2,6,5
+Dynamic Programming and Reinforcement Learning,Math,2,6,5
+Performance of Networked Systems,Math,2,6,5
+The Social Web,Elective,2,6,5
+Parallel Programming Practical,Systems,3,6,5
+Data Preparation,BigData,3,6,5
+Secure and Trustworthy Machine Learning,Security,3,6,5
+Security Experiments and Measurements,Security,3,6,5
+E-Commerce Law,Society,3,6,5
+History of Digital Cultures,Society,3,6,5
+High Performance Computing and Big Data,Elective,3,6,5
+Multi-core Processor Systems,Systems,4,6,5
+Data Protection Technologies,BigData,4,6,5
+Web Services and Cloud-Based Systems,BigData,4,6,5
+Advanced Logic,Foundations,4,6,5
+Term Rewriting Systems,Foundations,4,6,5
+Cryptographic Engineering,Security,4,6,5
+Software Language Engineering,SoftwareEng,4,6,5
+Entrepreneurship in Analytics and AI,Society,4,6,5
+Experimental Design and Data Analysis,Math,4,6,5
+Digital Business Ecosystems and Platforms,Elective,4,6,5
+Functional Programming,Elective,4,6,5
+Systems Seminar,Elective,4,6,5
+Accelerator-Centric Computing Ecosystems,Systems,5,6,5
+Energy-efficient Edge Computing,Systems,5,6,5
+Data Mining Techniques,BigData,5,6,5
+Advanced Graph Algorithms,Foundations,5,6,5
+Distributed Algorithms,Foundations,5,6,5
+Secure Computation,Security,5,6,5
+Software Testing,SoftwareEng,5,6,5
+ICT for the Global South,Society,5,6,5
+Computational Complexity,Elective,5,6,5
+AI for Security,Security,6,6,5
+Inclusive ICT,Society,6,6,5
+Research Methods in Computer Science,Research,6,6,5
+Machine Learning for the Quantified Self,Elective,6,6,5
+Master Project Computer Science,Research,0,30,10
+Research Project Computer Science,Research,0,6,5
+Literature Study,Research,0,6,5
+Large Research Project Computer Science,Research,0,18,5
